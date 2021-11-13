@@ -1,4 +1,4 @@
-# Project Description :-
+# Project Description :
 
 As we all know that Trie is an efficient information reTrieval data structure which is used to store key . Main advantage of trie is searching a key i.e. Using Trie, search complexities can be brought to optimal limit (key length) which is very fast in compare to naive search where we check for every word in our collections that it matches with key.
 
